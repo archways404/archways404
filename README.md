@@ -2,26 +2,34 @@
 
 #### 
 
-![](https://img.shields.io/badge/Student-100000?style=for-the-badge&logo=&logoColor=FF9D00&labelColor=22272e&color=22272e) 
+![](https://img.shields.io/badge/University-100000?style=for-the-badge&logo=&logoColor=FF9D00&labelColor=22272e&color=22272e) 
 ![](https://img.shields.io/badge/Fullstack_developer-100000?style=for-the-badge&logo=&logoColor=FF9D00&labelColor=22272e&color=22272e) 
-![](https://img.shields.io/badge/Private_contractor-100000?style=for-the-badge&logo=&logoColor=FF9D00&labelColor=22272e&color=22272e) 
+![](https://img.shields.io/badge/contractor-100000?style=for-the-badge&logo=&logoColor=FF9D00&labelColor=22272e&color=22272e) 
 
 
-### Private Contracting
+### Contracting
 While my schedule is currently packed with exciting projects, I will be available to take on new endeavors starting mid-February. Organizations and individuals seeking a dedicated and innovative developer for future collaborations are welcome to get in touch!
 
 ### 🌐 Technical Skills
 **Languages**:
 
-- ![](https://img.shields.io/badge/JavaScript-22272e?style=for-the-badge&logo=JavaScript&logoColor=F7FF00&labelColor=22272e&color=22272e)
-- ![](https://img.shields.io/badge/Rust-100000?style=for-the-badge&logo=Rust&logoColor=FDA500&labelColor=22272e&color=22272e)
-- ![](https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=Python&logoColor=00FF00&labelColor=22272e&color=22272e)
-- ![](https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=Cplusplus&logoColor=00FFF2&labelColor=22272e&color=22272e)
-- ![](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=Oracle&logoColor=FF0000&labelColor=22272e&color=22272e)
-- ![](https://img.shields.io/badge/PHP-100000?style=for-the-badge&logo=PHP&logoColor=00EAFF&labelColor=22272e&color=22272e)
-- ![](https://img.shields.io/badge/LUA-100000?style=for-the-badge&logo=LUA&logoColor=FF00C8&labelColor=22272e&color=22272e)
+![](https://img.shields.io/badge/JavaScript-22272e?style=for-the-badge&logo=JavaScript&logoColor=F7FF00&labelColor=22272e&color=22272e)
 
-**Research**: Diving deep into Rust for web development - curious about performance gains and practical application of Rust.
+![](https://img.shields.io/badge/Rust-100000?style=for-the-badge&logo=Rust&logoColor=FDA500&labelColor=22272e&color=22272e)
+
+![](https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=Python&logoColor=00FF00&labelColor=22272e&color=22272e)
+
+![](https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=Cplusplus&logoColor=00FFF2&labelColor=22272e&color=22272e)
+
+![](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=Oracle&logoColor=FF0000&labelColor=22272e&color=22272e)
+
+![](https://img.shields.io/badge/PHP-100000?style=for-the-badge&logo=PHP&logoColor=00EAFF&labelColor=22272e&color=22272e)
+
+![](https://img.shields.io/badge/LUA-100000?style=for-the-badge&logo=LUA&logoColor=FF00C8&labelColor=22272e&color=22272e)
+
+**Research**: 
+
+Diving deep into Rust for web development - curious about performance gains and practical application of Rust.
 
 **Frameworks & Tools**:
 
@@ -48,7 +56,7 @@ I'm currently exploring the use of Rust in web development, investigating its po
 
 
 ### Contact me
-Feel free to reach out to me for collaborations, project inquiries, or just a chat about technology.
+Feel free to reach out to me for collaborations, project inquiries, or just a chat.
 
 [![](https://img.shields.io/badge/archways@gmx.us-100000?style=for-the-badge&logo=protonmail&logoColor=2069F4&labelColor=22272e&color=22272e)](mailto:archways@gmx.us)
 
