@@ -10,6 +10,16 @@
 ### Contracting
 While my schedule is currently packed with exciting projects, I will be available to take on new endeavors starting mid-February. Organizations and individuals seeking a dedicated and innovative developer for future collaborations are welcome to get in touch!
 
+### Contact me
+Feel free to reach out to me for collaborations, project inquiries, or just a chat.
+
+[![](https://img.shields.io/badge/archways@gmx.us-100000?style=for-the-badge&logo=protonmail&logoColor=2069F4&labelColor=22272e&color=22272e)](mailto:archways@gmx.us)
+
+[![](https://img.shields.io/badge/archways-100000?style=for-the-badge&logo=discord&logoColor=FF9D00&labelColor=22272e&color=22272e)](https://discord.gg/2UrUh5SQxz)
+
+[![](https://img.shields.io/badge/hashnode-100000?style=for-the-badge&logo=hashnode&logoColor=00D9FF&labelColor=22272e&color=22272e)](https://archways404.hashnode.dev/)
+
+
 ### 🌐 Technical Skills
 **Languages**:
 
@@ -48,19 +58,7 @@ I am experienced with most modern development tools and frameworks.
 
 [![](https://img.shields.io/badge/archways404.dev-100000?style=for-the-badge&logo=arc&logoColor=FF0000&labelColor=22272e&color=22272e)](https://archways404.hashnode.dev/)
 
-[![](https://img.shields.io/badge/hashnode-100000?style=for-the-badge&logo=hashnode&logoColor=00D9FF&labelColor=22272e&color=22272e)](https://archways404.hashnode.dev/)
 
-
-### 📚 Research
-I'm currently exploring the use of Rust in web development, investigating its potential for performance optimization and efficient computing. [**Follow my journey**](https://archways404.hashnode.dev/) as I discover the capabilities and advantages of Rust in the web development arena.
-
-
-### Contact me
-Feel free to reach out to me for collaborations, project inquiries, or just a chat.
-
-[![](https://img.shields.io/badge/archways@gmx.us-100000?style=for-the-badge&logo=protonmail&logoColor=2069F4&labelColor=22272e&color=22272e)](mailto:archways@gmx.us)
-
-[![](https://img.shields.io/badge/archways-100000?style=for-the-badge&logo=discord&logoColor=FF9D00&labelColor=22272e&color=22272e)](https://discord.gg/2UrUh5SQxz)
 ###
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=archways404&theme=dark&hide_border=false)
