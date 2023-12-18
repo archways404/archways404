@@ -42,7 +42,7 @@ Feel free to reach out to me for collaborations, project inquiries etc:
 
 [![](https://img.shields.io/badge/Modern_Primula-100000?style=for-the-badge&logo=monster&logoColor=FD7014&labelColor=22272e&color=22272e)](https://github.com/archways404/ModernPrimulaApp/)
 
-[![](https://img.shields.io/badge/archways404.dev-100000?style=for-the-badge&logo=arc&logoColor=FF0000&labelColor=22272e&color=22272e)](https://archways404.hashnode.dev/)
+[![](https://img.shields.io/badge/archways404.dev-100000?style=for-the-badge&logo=arc&logoColor=FF0000&labelColor=22272e&color=22272e)](https://archways404.dev/)
 
 
 ###
