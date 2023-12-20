@@ -45,9 +45,8 @@
 <br>
 
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/2bVjriiW7FPH5fvFoh/giphy.gif?cid=ecf05e47jyumsbhwl75vc6ngw3cjywwqvq2zgp5pcw5o9uyv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150"/>
-  <br>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGc3YmhjdmY3M2lyeDg5bGp4NXNoZGoweWwxcDhxZnY1cHMwY3JnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bxwtewdxpDuBq/giphy.gif" width="500"/>
+  <!--  <img src="https://media3.giphy.com/media/2bVjriiW7FPH5fvFoh/giphy.gif?cid=ecf05e47jyumsbhwl75vc6ngw3cjywwqvq2zgp5pcw5o9uyv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150"/> -->
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGc3YmhjdmY3M2lyeDg5bGp4NXNoZGoweWwxcDhxZnY1cHMwY3JnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bxwtewdxpDuBq/giphy.gif" width="400"/>
 </div>
 
 <br>
