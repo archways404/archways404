@@ -5,6 +5,8 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&weight=700&size=24&pause=1000&color=F79123&center=true&vCenter=true&random=false&width=435&lines=https%3A%2F%2Fgithub.com%2Farchways404" alt="Typing SVG" /></a>
 </div>
 
+<br>
+
 <div id="header" align="center">
   <a href='https://github.com/archways404/' target="_blank"><img alt='github' src='https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=GITHUB&logoColor=FFFFFF&labelColor=000000&color=000000'/></a>
   <a href='mailto:archways@gmx.us' target="_blank"><img alt='mail' src='https://img.shields.io/badge/EMAIL-100000?style=for-the-badge&logo=PROTONMAIL&logoColor=5A00F4&labelColor=000000&color=000000'/></a>
@@ -16,23 +18,34 @@
    <img src="https://komarev.com/ghpvc/?username=archways404&base=3732&label=Visitors&color=020202&style=for-the-badge" alt="archways404" />
 </div>
 
-### 🌐 Technical Skills
-**Languages**:
+<br>
 
-![](https://img.shields.io/badge/JavaScript-22272e?style=for-the-badge&logo=JavaScript&logoColor=F7FF00&labelColor=22272e&color=22272e)
-![](https://img.shields.io/badge/Rust-100000?style=for-the-badge&logo=Rust&logoColor=FDA500&labelColor=22272e&color=22272e)
-![](https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=Python&logoColor=00FF00&labelColor=22272e&color=22272e)
-![](https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=Cplusplus&logoColor=00FFF2&labelColor=22272e&color=22272e)
-![](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=Oracle&logoColor=FF0000&labelColor=22272e&color=22272e)
-![](https://img.shields.io/badge/PHP-100000?style=for-the-badge&logo=PHP&logoColor=00EAFF&labelColor=22272e&color=22272e)
-![](https://img.shields.io/badge/LUA-100000?style=for-the-badge&logo=LUA&logoColor=FF00C8&labelColor=22272e&color=22272e)
+<div id="header" align="center">
+  <img alt='stats' src='http://github-readme-streak-stats.herokuapp.com?user=archways404&theme=transparent&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=550&sideNums=EBE14E&fire=EB951D&stroke=EBE14E&ring=EB951D&dates=EBE14E&sideLabels=EBE52D&currStreakNum=EB951D&currStreakLabel=EB951D'/>
+</div>
 
-**Current Stack:**
+<div id="header" align="center">
+  <h3>Languages</h3>
+  <img alt='javascript' src='https://img.shields.io/badge/JavaScript-22272e?style=for-the-badge&logo=JavaScript&logoColor=F7FF00&labelColor=000000&color=000000'/>
+  <img alt='rust' src='https://img.shields.io/badge/Rust-100000?style=for-the-badge&logo=Rust&logoColor=FDA500&labelColor=000000&color=000000'/>
+  <img alt='python' src='https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=Python&logoColor=00FF00&labelColor=000000&color=000000'/>
+  <br>
+  <img alt='c++' src='https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=Cplusplus&logoColor=00FFF2&labelColor=000000&color=000000'/>
+  <img alt='java' src='https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=Oracle&logoColor=FF0000&labelColor=000000&color=000000'/>
+  <img alt='php' src='https://img.shields.io/badge/PHP-100000?style=for-the-badge&logo=PHP&logoColor=00EAFF&labelColor=000000&color=000000'/>
+  <img alt='lua' src='https://img.shields.io/badge/LUA-100000?style=for-the-badge&logo=LUA&logoColor=FF00C8&labelColor=000000&color=000000'/>
+</div>
 
-![](https://img.shields.io/badge/MERN-100000?style=for-the-badge&logo=monster&logoColor=2BFF00&labelColor=22272e&color=22272e)
-
-![](https://img.shields.io/badge/Mongodb-100000?style=for-the-badge&logo=mongodb&logoColor=2BFF00&labelColor=22272e&color=22272e)![](https://img.shields.io/badge/expressJS-100000?style=for-the-badge&logo=express&logoColor=2BFF00&labelColor=22272e&color=22272e)![](https://img.shields.io/badge/react-100000?style=for-the-badge&logo=react&logoColor=0C9AFF&labelColor=22272e&color=22272e)![](https://img.shields.io/badge/nodejs-100000?style=for-the-badge&logo=node.js&logoColor=2BFF00&labelColor=22272e&color=22272e)
-
+<div id="header" align="center">
+  <h3>🚀 Highlighted Projects </h3>
+  <img alt='javascript' src='https://img.shields.io/badge/JavaScript-22272e?style=for-the-badge&logo=JavaScript&logoColor=F7FF00&labelColor=000000&color=000000'/>
+  <img alt='rust' src='https://img.shields.io/badge/Rust-100000?style=for-the-badge&logo=Rust&logoColor=FDA500&labelColor=000000&color=000000'/>
+  <img alt='python' src='https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=Python&logoColor=00FF00&labelColor=000000&color=000000'/>
+  <img alt='c++' src='https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=Cplusplus&logoColor=00FFF2&labelColor=000000&color=000000'/>
+  <img alt='java' src='https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=Oracle&logoColor=FF0000&labelColor=000000&color=000000'/>
+  <img alt='php' src='https://img.shields.io/badge/PHP-100000?style=for-the-badge&logo=PHP&logoColor=00EAFF&labelColor=000000&color=000000'/>
+  <img alt='lua' src='https://img.shields.io/badge/LUA-100000?style=for-the-badge&logo=LUA&logoColor=FF00C8&labelColor=000000&color=000000'/>
+</div>
 
 ### 🚀 Highlighted Projects 
 
