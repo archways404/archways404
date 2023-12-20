@@ -5,25 +5,15 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&weight=700&size=24&pause=1000&color=F79123&center=true&vCenter=true&random=false&width=435&lines=https%3A%2F%2Fgithub.com%2Farchways404" alt="Typing SVG" /></a>
 </div>
 
-
-
-![](https://img.shields.io/badge/University-100000?style=for-the-badge&logo=&logoColor=FF9D00&labelColor=22272e&color=22272e)
-![](https://img.shields.io/badge/CEO-100000?style=for-the-badge&logo=&logoColor=FF9D00&labelColor=22272e&color=22272e) 
-![](https://img.shields.io/badge/Fullstack_developer-100000?style=for-the-badge&logo=&logoColor=FF9D00&labelColor=22272e&color=22272e) 
-![](https://img.shields.io/badge/contractor-100000?style=for-the-badge&logo=&logoColor=FF9D00&labelColor=22272e&color=22272e) 
-
-### Contractor
-While my schedule is currently packed with exciting projects, I will be available to take on new endeavors starting mid-February. Organizations and individuals seeking a dedicated and innovative developer for future collaborations are welcome to get in touch!
-
-### Contact me
-Feel free to reach out to me for collaborations, project inquiries etc: 
-
-[![](https://img.shields.io/badge/archways@gmx.us-100000?style=for-the-badge&logo=protonmail&logoColor=2069F4&labelColor=22272e&color=22272e)](mailto:archways@gmx.us)
-
-[![](https://img.shields.io/badge/archways-100000?style=for-the-badge&logo=discord&logoColor=FF9D00&labelColor=22272e&color=22272e)](https://discord.gg/2UrUh5SQxz)
-
-[![](https://img.shields.io/badge/hashnode-100000?style=for-the-badge&logo=hashnode&logoColor=00D9FF&labelColor=22272e&color=22272e)](https://archways404.hashnode.dev/)
-
+<div id="header" align="center">
+  <a href='https://github.com/archways404/' target="_blank"><img alt='github' src='https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=GITHUB&logoColor=FFFFFF&labelColor=000000&color=000000'/></a>
+  <a href='mailto:archways@gmx.us' target="_blank"><img alt='mail' src='https://img.shields.io/badge/EMAIL-100000?style=for-the-badge&logo=PROTONMAIL&logoColor=5A00F4&labelColor=000000&color=000000'/></a>
+  <a href='https://archways404.hashnode.dev/' target="_blank"><img alt='hashnode' src='https://img.shields.io/badge/BLOG-100000?style=for-the-badge&logo=hashnode&logoColor=3F86DD&labelColor=000000&color=000000'/></a>
+  <a href='https://github.com/404-Company-Not-Found-LLC' target="_blank"><img alt='github' src='https://img.shields.io/badge/ORG-100000?style=for-the-badge&logo=GITHUB&logoColor=FFFFFF&labelColor=000000&color=000000'/></a>
+  <a href='https://discord.gg/2UrUh5SQxz' target="_blank"><img alt='discord' src='https://img.shields.io/badge/DISCORD-100000?style=for-the-badge&logo=DISCORD&logoColor=FFFFFF&labelColor=000000&color=000000'/></a>
+  
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=archways404&label=Unique%20Visitors&color=12&icon=2&pretty=true" /></a>
+</div>
 
 ### 🌐 Technical Skills
 **Languages**:
