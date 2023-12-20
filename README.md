@@ -2,12 +2,12 @@
 
 #### 
 
-![](https://img.shields.io/badge/University-100000?style=for-the-badge&logo=&logoColor=FF9D00&labelColor=22272e&color=22272e) 
+![](https://img.shields.io/badge/University-100000?style=for-the-badge&logo=&logoColor=FF9D00&labelColor=22272e&color=22272e)
+![](https://img.shields.io/badge/CEO-100000?style=for-the-badge&logo=&logoColor=FF9D00&labelColor=22272e&color=22272e) 
 ![](https://img.shields.io/badge/Fullstack_developer-100000?style=for-the-badge&logo=&logoColor=FF9D00&labelColor=22272e&color=22272e) 
 ![](https://img.shields.io/badge/contractor-100000?style=for-the-badge&logo=&logoColor=FF9D00&labelColor=22272e&color=22272e) 
 
-
-### Contracting
+### Contractor
 While my schedule is currently packed with exciting projects, I will be available to take on new endeavors starting mid-February. Organizations and individuals seeking a dedicated and innovative developer for future collaborations are welcome to get in touch!
 
 ### Contact me
