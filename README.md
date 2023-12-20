@@ -1,4 +1,6 @@
-# [404 page not found.](https://github.com/archways404)
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/42veFaIwEoPETh9gNB/200w.webp?cid=ecf05e47jrwl0bn2ml70lt91xc1ndjyczzboe7zmedtrmfzr&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100"/>
+</div>
 
 #### 
 
