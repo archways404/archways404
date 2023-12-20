@@ -23,12 +23,9 @@
 <div id="header" align="center">
   <img alt='stats' src='http://github-readme-streak-stats.herokuapp.com?user=archways404&theme=transparent&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=550&sideNums=EBE14E&fire=EB951D&stroke=EBE14E&ring=EB951D&dates=EBE14E&sideLabels=EBE52D&currStreakNum=EB951D&currStreakLabel=EB951D'/>
 </div>
-
 <div id="header" align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&weight=700&size=24&pause=1000&color=F79123&center=true&vCenter=true&random=false&width=445&lines=404+Company+Not+Found+LLC" alt="Typing SVG" /></a>
 </div>
-
-<br>
 
 <div id="header" align="center">
   <h3>Languages</h3>
@@ -42,6 +39,7 @@
   <img alt='lua' src='https://img.shields.io/badge/LUA-100000?style=for-the-badge&logo=LUA&logoColor=FF00C8&labelColor=000000&color=000000'/>
 </div>
 
+<br>
 <br>
 
 <div id="header" align="center">
