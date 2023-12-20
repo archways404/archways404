@@ -45,8 +45,8 @@ Feel free to reach out to me for collaborations, project inquiries etc:
 [![](https://img.shields.io/badge/archways404.dev-100000?style=for-the-badge&logo=arc&logoColor=FF0000&labelColor=22272e&color=22272e)](https://archways404.dev/)
 
 
-###
+--- 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=archways404&theme=dark&hide_border=false)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=archways404&theme=transparent&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=550&sideNums=EBE14E&fire=EB951D&stroke=EBE14E&ring=EB951D&dates=EBE14E&sideLabels=EBE52D&currStreakNum=EB951D&currStreakLabel=EB951D)](https://git.io/streak-stats)
 
-[![](https://visitcount.itsvg.in/api?id=archways404&icon=6&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=archways404&label=Unique%20Visitors&icon=2&pretty=true)](https://visitcount.itsvg.in)
