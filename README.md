@@ -1,8 +1,11 @@
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/42veFaIwEoPETh9gNB/200w.webp?cid=ecf05e47jrwl0bn2ml70lt91xc1ndjyczzboe7zmedtrmfzr&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100"/>
 </div>
+<div id="header" align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&weight=700&size=24&pause=1000&color=F79123&center=true&vCenter=true&random=false&width=435&lines=https%3A%2F%2Fgithub.com%2Farchways404" alt="Typing SVG" /></a>
+</div>
 
-#### 
+
 
 ![](https://img.shields.io/badge/University-100000?style=for-the-badge&logo=&logoColor=FF9D00&labelColor=22272e&color=22272e)
 ![](https://img.shields.io/badge/CEO-100000?style=for-the-badge&logo=&logoColor=FF9D00&labelColor=22272e&color=22272e) 
