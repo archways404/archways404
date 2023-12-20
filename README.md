@@ -18,16 +18,10 @@
    <img src="https://komarev.com/ghpvc/?username=archways404&base=3732&label=Visitors&color=020202&style=for-the-badge" alt="archways404" />
 </div>
 
-
-
-<div id="header" align="center">
-  <img alt='stats' src='http://github-readme-streak-stats.herokuapp.com?user=archways404&theme=transparent&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=550&sideNums=EBE14E&fire=EB951D&stroke=EBE14E&ring=EB951D&dates=EBE14E&sideLabels=EBE52D&currStreakNum=EB951D&currStreakLabel=EB951D'/>
-</div>
-
 <br>
 
 <div id="header" align="center">
-  <img alt='stats' src='https://github-readme-stats.vercel.app/api?username=archways404&show_icons=true&bg_color=00000000&title_color=EB951D&text_color=EBE14E&icon_color=EB951D&hide_border=true&hide_title=true&include_all_commits=true'/>
+  <img alt='stats' src='http://github-readme-streak-stats.herokuapp.com?user=archways404&theme=transparent&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=550&sideNums=EBE14E&fire=EB951D&stroke=EBE14E&ring=EB951D&dates=EBE14E&sideLabels=EBE52D&currStreakNum=EB951D&currStreakLabel=EB951D'/>
 </div>
 
 <br>
