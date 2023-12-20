@@ -12,7 +12,7 @@
   <a href='https://github.com/404-Company-Not-Found-LLC' target="_blank"><img alt='github' src='https://img.shields.io/badge/ORG-100000?style=for-the-badge&logo=GITHUB&logoColor=FFFFFF&labelColor=000000&color=000000'/></a>
   <a href='https://discord.gg/2UrUh5SQxz' target="_blank"><img alt='discord' src='https://img.shields.io/badge/DISCORD-100000?style=for-the-badge&logo=DISCORD&logoColor=FFFFFF&labelColor=000000&color=000000'/></a>
   
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=archways404&label=Unique%20Visitors&color=12&icon=2&pretty=true" /></a>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=archways404&left_color=black&right_color=orange"/>
 </div>
 
 ### 🌐 Technical Skills
