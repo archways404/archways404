@@ -9,10 +9,11 @@
   <a href='https://github.com/archways404/' target="_blank"><img alt='github' src='https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=GITHUB&logoColor=FFFFFF&labelColor=000000&color=000000'/></a>
   <a href='mailto:archways@gmx.us' target="_blank"><img alt='mail' src='https://img.shields.io/badge/EMAIL-100000?style=for-the-badge&logo=PROTONMAIL&logoColor=5A00F4&labelColor=000000&color=000000'/></a>
   <a href='https://archways404.hashnode.dev/' target="_blank"><img alt='hashnode' src='https://img.shields.io/badge/BLOG-100000?style=for-the-badge&logo=hashnode&logoColor=3F86DD&labelColor=000000&color=000000'/></a>
+  <a href='https://discord.gg/2UrUh5SQxz' target="_blank"><img alt='discord' src='https://img.shields.io/badge/DISCORD-100000?style=for-the-badge&logo=DISCORD&logoColor=10C7C4&labelColor=000000&color=000000'/></a>
   <a href='https://github.com/404-Company-Not-Found-LLC' target="_blank"><img alt='github' src='https://img.shields.io/badge/ORG-100000?style=for-the-badge&logo=GITHUB&logoColor=FFFFFF&labelColor=000000&color=000000'/></a>
-  <a href='https://discord.gg/2UrUh5SQxz' target="_blank"><img alt='discord' src='https://img.shields.io/badge/DISCORD-100000?style=for-the-badge&logo=DISCORD&logoColor=FFFFFF&labelColor=000000&color=000000'/></a>
-  
-  <img src="https://visitor-badge.glitch.me/badge?page_id=archways404&left_color=black&right_color=orange"/>
+</div>
+<div id="header" align="center">
+   <img src="https://komarev.com/ghpvc/?username=archways404&base=3732&label=Visitors&color=020202&style=for-the-badge" alt="archways404" />
 </div>
 
 ### 🌐 Technical Skills
