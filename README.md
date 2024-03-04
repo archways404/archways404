@@ -29,14 +29,18 @@
 
 <div id="header" align="center">
   <h3>Languages</h3>
-  <img alt='javascript' src='https://img.shields.io/badge/JavaScript-22272e?style=for-the-badge&logo=JavaScript&logoColor=F7FF00&labelColor=000000&color=000000'/>
-  <img alt='rust' src='https://img.shields.io/badge/Rust-100000?style=for-the-badge&logo=Rust&logoColor=FDA500&labelColor=000000&color=000000'/>
-  <img alt='python' src='https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=Python&logoColor=00FF00&labelColor=000000&color=000000'/>
+  <img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-22272e?style=for-the-badge&logo=JavaScript&logoColor=F7FF00&labelColor=000000&color=000000'/>
+  <img alt='TypeScript' src='https://img.shields.io/badge/TypeScript-100000?style=for-the-badge&logo=TypeScript&logoColor=0090FF&labelColor=black&color=black'/>
+  <img alt='Rust' src='https://img.shields.io/badge/Rust-100000?style=for-the-badge&logo=Rust&logoColor=FDA500&labelColor=000000&color=000000'/>
+  <br>
+  <img alt='GoLang' src='https://img.shields.io/badge/Golang-100000?style=for-the-badge&logo=Go&logoColor=0090FF&labelColor=black&color=black'/>
+  <img alt='Python' src='https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=Python&logoColor=00FF00&labelColor=000000&color=000000'/>
+  <img alt='Bash' src='https://img.shields.io/badge/Bash-100000?style=for-the-badge&logo=gnubash&logoColor=50FF05&labelColor=black&color=black'/>  
   <br>
   <img alt='c++' src='https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=Cplusplus&logoColor=00FFF2&labelColor=000000&color=000000'/>
   <img alt='java' src='https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=Oracle&logoColor=FF0000&labelColor=000000&color=000000'/>
   <img alt='php' src='https://img.shields.io/badge/PHP-100000?style=for-the-badge&logo=PHP&logoColor=00EAFF&labelColor=000000&color=000000'/>
-  <img alt='lua' src='https://img.shields.io/badge/LUA-100000?style=for-the-badge&logo=LUA&logoColor=FF00C8&labelColor=000000&color=000000'/>
+<br>
 </div>
 
 <br>
