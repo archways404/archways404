@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/42veFaIwEoPETh9gNB/200w.webp?cid=ecf05e47jrwl0bn2ml70lt91xc1ndjyczzboe7zmedtrmfzr&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100"/>
+  <!-- <img src="https://media2.giphy.com/media/42veFaIwEoPETh9gNB/200w.webp?cid=ecf05e47jrwl0bn2ml70lt91xc1ndjyczzboe7zmedtrmfzr&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100"/> -->
 </div>
 <div id="header" align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&weight=700&size=24&pause=1000&color=F79123&center=true&vCenter=true&random=false&width=435&lines=https%3A%2F%2Fgithub.com%2Farchways404" alt="Typing SVG" /></a>
@@ -48,7 +48,7 @@
 
 <div id="header" align="center">
   <!--  <img src="https://media3.giphy.com/media/2bVjriiW7FPH5fvFoh/giphy.gif?cid=ecf05e47jyumsbhwl75vc6ngw3cjywwqvq2zgp5pcw5o9uyv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150"/> -->
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGc3YmhjdmY3M2lyeDg5bGp4NXNoZGoweWwxcDhxZnY1cHMwY3JnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bxwtewdxpDuBq/giphy.gif" width="400"/>
+  <!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGc3YmhjdmY3M2lyeDg5bGp4NXNoZGoweWwxcDhxZnY1cHMwY3JnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bxwtewdxpDuBq/giphy.gif" width="400"/> -->
 </div>
 
 <br>
