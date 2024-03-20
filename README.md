@@ -2,7 +2,7 @@
   <!-- <img src="https://media2.giphy.com/media/42veFaIwEoPETh9gNB/200w.webp?cid=ecf05e47jrwl0bn2ml70lt91xc1ndjyczzboe7zmedtrmfzr&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100"/> -->
 </div>
 <div id="header" align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&weight=700&size=24&pause=1000&color=F79123&center=true&vCenter=true&random=false&width=435&lines=https%3A%2F%2Fgithub.com%2Farchways404" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&weight=700&size=24&pause=1000&color=26EB6E&center=true&vCenter=true&random=false&width=435&lines=https%3A%2F%2Fgithub.com%2Farchways404" alt="Typing SVG" /></a>
 </div>
 
 <br>
@@ -22,10 +22,10 @@
 <br>
 
 <div id="header" align="center">
-  <img alt='stats' src='http://github-readme-streak-stats.herokuapp.com?user=archways404&theme=transparent&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=550&sideNums=EB951D&fire=EB951D&stroke=EB951D&ring=EB951D&dates=EB951D&sideLabels=EB951D&currStreakNum=EB951D&currStreakLabel=EB951D'/>
+  <img alt='stats' src='http://github-readme-streak-stats.herokuapp.com?user=archways404&theme=transparent&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=550&sideNums=26EB6E&fire=26EB6E&stroke=26EB6E&ring=26EB6E&dates=26EB6E&sideLabels=26EB6E&currStreakNum=26EB6E&currStreakLabel=26EB6E'/>
 </div>
 <div id="header" align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&weight=700&size=24&pause=1000&color=F79123&center=true&vCenter=true&random=false&width=445&lines=404+Company+Not+Found+LLC+©" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&weight=700&size=24&pause=1000&color=26EB6E&center=true&vCenter=true&random=false&width=445&lines=Software404+LLC+©" alt="Typing SVG" /></a>
 </div>
 
 <div id="header" align="center">
