@@ -2,7 +2,7 @@
   <!-- <img src="https://media2.giphy.com/media/42veFaIwEoPETh9gNB/200w.webp?cid=ecf05e47jrwl0bn2ml70lt91xc1ndjyczzboe7zmedtrmfzr&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100"/> -->
 </div>
 <div id="header" align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kode+Mono&weight=550&size=40&pause=1000&color=13FF0F&Center=true&vCenter=true&random=false&width=800&height=80&lines=https%3A%2F%2Fgithub.com%2Farchways404"  alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Kode+Mono&weight=550&size=40&pause=1000&color=13FF0F&center=true&vCenter=true&repeat=false&random=false&width=800&height=80&lines=https%3A%2F%2Fgithub.com%2Farchways404" alt="Typing SVG" /></a>
 </div>
 
 <br>
