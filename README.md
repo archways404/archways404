@@ -6,7 +6,6 @@
 </div>
 
 <br>
-<br>
 
 <div id="header" align="center">
   <a href='https://github.com/archways404/' target="_blank"><img alt='github' src='https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=GITHUB&logoColor=FFFFFF&labelColor=000000&color=000000'/></a>
