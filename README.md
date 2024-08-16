@@ -31,10 +31,8 @@
   <br>
   <img alt='Rust' src='https://img.shields.io/badge/Rust-100000?style=for-the-badge&logo=Rust&logoColor=FDA500&labelColor=000000&color=000000'/>
   <img alt='C' src='https://img.shields.io/badge/C-100000?style=for-the-badge&logo=c&logoColor=48FF00&labelColor=black&color=000000'/>
-  <img alt='C++' src='https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=Cplusplus&logoColor=00FFF2&labelColor=000000&color=000000'/>
-  <img alt='C#' src='https://img.shields.io/badge/C%23-100000?style=for-the-badge&logo=csharp&logoColor=48FF00&labelColor=black&color=000000'/>
-  <br>
   <img alt='Python' src='https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=Python&logoColor=00FF00&labelColor=000000&color=000000'/>
+  <br>
   <img alt='GoLang' src='https://img.shields.io/badge/Golang-100000?style=for-the-badge&logo=Go&logoColor=0090FF&labelColor=black&color=black'/>
   <img alt='Bash' src='https://img.shields.io/badge/Bash-100000?style=for-the-badge&logo=gnubash&logoColor=50FF05&labelColor=black&color=black'/>
   <br>
