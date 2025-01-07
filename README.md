@@ -25,6 +25,7 @@
   <img alt='stats' src='http://github-readme-streak-stats.herokuapp.com?user=archways404&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&stroke=13FF0F&ring=13FF0F&fire=13FF0F&currStreakNum=13FF0F&sideNums=13FF0F&currStreakLabel=13FF0F&sideLabels=13FF0F&dates=13FF0F'/>
 </div>
 
+<!--
 <div id="header" align="center">
   <img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-22272e?style=for-the-badge&logo=JavaScript&logoColor=F7FF00&labelColor=000000&color=000000'/>
   <img alt='TypeScript' src='https://img.shields.io/badge/TypeScript-100000?style=for-the-badge&logo=TypeScript&logoColor=0090FF&labelColor=black&color=black'/>
@@ -42,6 +43,7 @@
 </div>
 
 <br>
+-->
 <br>
 
 <div id="header" align="center">
