@@ -8,10 +8,11 @@
 <br>
 
 <div id="header" align="center">
-  <a href='https://github.com/archways404/' target="_blank"><img alt='github' src='https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=GITHUB&logoColor=FFFFFF&labelColor=000000&color=000000'/></a>
+  <a href='https://youtube.com/@archwaysdev' target="_blank"><img alt='youtube' src='https://img.shields.io/badge/YOUTUBE-100000?style=for-the-badge&logo=YOUTUBE&logoColor=FF0000&labelColor=000000&color=000000'/></a>
   <a href='mailto:archways@gmx.us' target="_blank"><img alt='mail' src='https://img.shields.io/badge/EMAIL-100000?style=for-the-badge&logo=PROTONMAIL&logoColor=5A00F4&labelColor=000000&color=000000'/></a>
   <a href='https://archways404.hashnode.dev/' target="_blank"><img alt='hashnode' src='https://img.shields.io/badge/BLOG-100000?style=for-the-badge&logo=hashnode&logoColor=3F86DD&labelColor=000000&color=000000'/></a>
   <a href='https://discord.gg/2UrUh5SQxz' target="_blank"><img alt='discord' src='https://img.shields.io/badge/DISCORD-100000?style=for-the-badge&logo=DISCORD&logoColor=10C7C4&labelColor=000000&color=000000'/></a>
+  <a href='https://github.com/archways404/' target="_blank"><img alt='github' src='https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=GITHUB&logoColor=FFFFFF&labelColor=000000&color=000000'/></a>
   <a href='https://github.com/software404org' target="_blank"><img alt='github' src='https://img.shields.io/badge/ORG-100000?style=for-the-badge&logo=GITHUB&logoColor=FFFFFF&labelColor=000000&color=000000'/></a>
 </div>
 
