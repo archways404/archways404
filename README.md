@@ -47,6 +47,11 @@
 -->
 <br>
 
+<img src="https://umami.kiterationlabs.com/api/collect?website=977650ed-6911-472b-b94c-b451d4b9c16f"
+     width="1"
+     height="1"
+     style="display:none" />
+
 <div id="header" align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Kode+Mono&weight=550&size=40&pause=1000&color=13FF0F&center=true&vCenter=true&repeat=false&random=false&width=800&height=80&lines=software404%E2%84%A2" alt="Typing SVG" /></a>
 </div>
